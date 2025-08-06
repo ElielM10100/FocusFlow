@@ -1,0 +1,24 @@
+# Arquivos de Áudio
+
+Esta pasta deve conter os seguintes arquivos de áudio:
+
+## Sons Ambiente:
+- rain.mp3 - Som de chuva
+- forest.mp3 - Sons da floresta
+- ocean.mp3 - Som do oceano
+- fire.mp3 - Som de lareira
+- coffee-shop.mp3 - Som de cafeteria
+- birds.mp3 - Sons de pássaros
+- wind.mp3 - Som do vento
+- piano.mp3 - Música de piano relaxante
+
+## Notificações:
+- notification.mp3 - Som de notificação
+
+Você pode encontrar esses sons em:
+- Freesound.org (Creative Commons)
+- Pixabay (Sons gratuitos)
+- YouTube Audio Library
+- Ou gravar seus próprios sons
+
+Certifique-se de que os arquivos estejam no formato MP3 e tenham boa qualidade.
